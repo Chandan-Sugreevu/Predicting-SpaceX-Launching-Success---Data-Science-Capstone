@@ -1,5 +1,4 @@
-🚀 Applied Data Science Capstone
-The Applied Data Science Capstone serves as the final and most comprehensive course in the IBM Data Science Professional Certificate specialization. This capstone consolidates all the knowledge acquired throughout the specialization into a real-world data science project, reinforcing key concepts and practical applications.
+
 
 📜 Project Overview
 The SpaceX Reusability Challenge
